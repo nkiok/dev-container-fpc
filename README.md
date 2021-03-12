@@ -43,3 +43,16 @@ If you feel brave enough to accept the challenge, try to add syntax highlighting
   
 If not using the dev container, you can just install the extension in your local environment and then communicate the instructions to your team so that they can benefit from it as well.  
 #### Hint: the extension ID is `wosi.omnipascal`
+
+## Color codes you can use
+  * White
+  * LightGray
+  * LightBlue
+  * Cyan
+  * Blue
+  * Red
+  * Yellow
+  * Magenta
+  * Green
+  * LightGreen
+  * LightRed
